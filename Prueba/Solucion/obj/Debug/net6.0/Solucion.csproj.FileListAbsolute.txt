@@ -1,0 +1,12 @@
+C:\Users\Melissa\Desktop\Prueba\Solucion\bin\Debug\net6.0\Solucion.deps.json
+C:\Users\Melissa\Desktop\Prueba\Solucion\bin\Debug\net6.0\Solucion.dll
+C:\Users\Melissa\Desktop\Prueba\Solucion\bin\Debug\net6.0\Solucion.pdb
+C:\Users\Melissa\Desktop\Prueba\Solucion\obj\Debug\net6.0\Solucion.csproj.AssemblyReference.cache
+C:\Users\Melissa\Desktop\Prueba\Solucion\obj\Debug\net6.0\Solucion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Melissa\Desktop\Prueba\Solucion\obj\Debug\net6.0\Solucion.AssemblyInfoInputs.cache
+C:\Users\Melissa\Desktop\Prueba\Solucion\obj\Debug\net6.0\Solucion.AssemblyInfo.cs
+C:\Users\Melissa\Desktop\Prueba\Solucion\obj\Debug\net6.0\Solucion.csproj.CoreCompileInputs.cache
+C:\Users\Melissa\Desktop\Prueba\Solucion\obj\Debug\net6.0\Solucion.dll
+C:\Users\Melissa\Desktop\Prueba\Solucion\obj\Debug\net6.0\refint\Solucion.dll
+C:\Users\Melissa\Desktop\Prueba\Solucion\obj\Debug\net6.0\Solucion.pdb
+C:\Users\Melissa\Desktop\Prueba\Solucion\obj\Debug\net6.0\ref\Solucion.dll
